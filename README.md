@@ -4,7 +4,7 @@ A markdown sheet with tips, tricks, and resources to succeed in Data Structures
 ## Essential Links
 [Textbook](https://runestone.academy/runestone/books/published/pythonds/index.html) - this is super helpful! The textbook contains a lot of actual code for labs. If you ever get stuck/ forget how a data structure works, this is how to get back on track. Feel free to check your lab code against the book or use it for hints since labs are meant more for learning.  
 [CodeShare Workspace](https://codeshare.io/5zrzZW) -  Need help on a snippet of code or want to work through a problem together? Join the workspace so we can collaborate during office hours!  
-[Office Hours Link](https://calpoly.zoom.us/j/84318737922) - TA office hours are M/W 8:30 PM - 10:00 PM PST
+[Office Hours Link](brokenurl) - TA office hours are TBD
 
 ## FAQS:  
 **Q:** *How are assignments graded/ how did I get this score?*  
