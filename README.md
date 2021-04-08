@@ -24,3 +24,9 @@ A markdown sheet with tips, tricks, and resources to succeed in Data Structures
 5. Test and use the debugger if you  run into errors  
 6. repeat steps 3-5 until your function works  
 7. If you are still stuck, the textbook contains a lot of helpful tips, explanations, and sample code for functions. Good luck!  
+
+## Topic Hints:
+### Recursion
+1. Always have a base-case, recursive call, and way to bring each recursive call closer to the base-case
+2. If you are missing any of those things, you might get stuck in an infinite loop
+3. You can put the recursive portion of your code into a helper function to improve simplicity and handle invalid inputs/ edge cases in the caller-function
