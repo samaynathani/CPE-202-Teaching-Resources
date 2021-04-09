@@ -32,4 +32,4 @@ A markdown sheet with tips, tricks, and resources to succeed in Data Structures
 3. You can put the recursive portion of your code into a helper function to improve simplicity and handle invalid inputs/ edge cases in the caller-function
 
 
-If you have any questions, [email me @ snathani@calpoly.edu](mailto:snathani@calpoly.edu)
+If you have any questions, [email me!](mailto:snathani@calpoly.edu)
