@@ -4,7 +4,7 @@ A markdown sheet with tips, tricks, and resources to succeed in Data Structures
 ## Essential Links
 [Textbook](https://runestone.academy/runestone/books/published/pythonds/index.html) - this is super helpful! The textbook contains a lot of actual code for labs. If you ever get stuck/ forget how a data structure works, this is how to get back on track. Feel free to check your lab code against the book or use it for hints since labs are meant more for learning.  
 [CodeShare Workspace](https://codeshare.io/5zrzZW) -  Need help on a snippet of code or want to work through a problem together? Join the workspace so we can collaborate during office hours!  
-[Office Hours Link](brokenurl) - TA office hours are TBD
+[Office Hours Link](https://www.google.com/url?q=https://calpoly.zoom.us/j/82747663546?from%3Daddon&sa=D&source=calendar&usd=2&usg=AOvVaw3PfGUAgjHpiw7tQ4Dg2Hcv) - TA office hours are Mondays, 3-4pm PST/PDT
 
 ## FAQS:  
 **Q:** *How are assignments graded/ how did I get this score?*  
@@ -30,3 +30,6 @@ A markdown sheet with tips, tricks, and resources to succeed in Data Structures
 1. Always have a base-case, recursive call, and way to bring each recursive call closer to the base-case
 2. If you are missing any of those things, you might get stuck in an infinite loop
 3. You can put the recursive portion of your code into a helper function to improve simplicity and handle invalid inputs/ edge cases in the caller-function
+
+
+If you have any questions, [email me @ snathani@calpoly.edu](mailto:snathani@calpoly.edu)
