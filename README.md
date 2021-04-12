@@ -29,7 +29,12 @@ A markdown sheet with tips, tricks, and resources to succeed in Data Structures
 ### Recursion
 1. Always have a base-case, recursive call, and way to bring each recursive call closer to the base-case
 2. If you are missing any of those things, you might get stuck in an infinite loop
-3. You can put the recursive portion of your code into a helper function to improve simplicity and handle invalid inputs/ edge cases in the caller-function
+3. You can put the recursive portion of your code into a helper function to improve simplicity and handle invalid inputs/ edge cases in the caller-function  
+
+### Stacks:
+1. For array-based implementations, think about the relationship between the number of items it contains and how to access the topmost element.
+2. For linked-list implementations, adding and removing from the head is the same as the "top".
+3. Time complexities - push/ pop - O(1), size - O(1), pop all/ push all - O(n).
 
 
 If you have any questions, [email me!](mailto:snathani@calpoly.edu)
