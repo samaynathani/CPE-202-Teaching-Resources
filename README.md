@@ -1,6 +1,5 @@
 # CPE-202-Guide-to-Success
-A markdown sheet with tips, tricks, and resources to succeed in Data Structures  
-*Star this repo and follow my github account to see when info is added to this guide*
+A markdown sheet with tips, tricks, and resources to succeed in Data Structures by [Samay Nathani](https://github.com/samaynathani)  
 ## Essential Links
 [Textbook](https://runestone.academy/runestone/books/published/pythonds/index.html) - this is super helpful! The textbook contains a lot of actual code for labs. If you ever get stuck/ forget how a data structure works, this is how to get back on track. Feel free to check your lab code against the book or use it for hints since labs are meant more for learning.  
 [CodeShare Workspace](https://codeshare.io/5zrzZW) -  Need help on a snippet of code or want to work through a problem together? Join the workspace so we can collaborate during office hours!  
