@@ -8,7 +8,7 @@ A markdown sheet with tips, tricks, and resources to succeed in Data Structures 
 **A:** We use unit-tests to check all functions for correct output. If you would like to see which tests failed or feedback from the test cases, please send me (the TA) an email with the name of the assignment and your Github ID.    
 
 **Q:** *How do I get better scores on assignments?*  
-**A:** Make sure that your programs return the correct outputs every time. Be sure to write tests for edge-cases (empty strings, empty arrays, None objects, negative numbers, zeros, repeated values, ect)    
+**A:** When writing tests, make sure to test assignment requirements listed in the spec, and NOT just the code you have written. Make sure that your programs return the correct outputs every time. Be sure to write tests for edge-cases (empty strings, empty arrays, None objects, negative numbers, zeros, repeated values, ect)    
 
 **Q:** *How should I prepare for the miderm?*  
 **A:** Be able to write any function from any lab, know all time complexities (worst, best, average), understand how to draw and step through different data structures, know postfix and prefix notation.    
