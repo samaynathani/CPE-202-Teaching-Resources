@@ -1,4 +1,4 @@
-# 🐍 Data Structures (CPE 202) Resources, Advice & Hints
+# 🐍 Data Structures (CPE 202) Resources, Advice, & Hints
 A markdown sheet with stuff to help my students succeed in Data Structures! by [🦕samay nathani](https://github.com/samaynathani)  
 
 ## 👋 Office Hours
