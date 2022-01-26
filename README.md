@@ -38,18 +38,19 @@ MTW, 8:30 pm - 9:30 pm PDT (Zoom link on Canvas)
 ### Stacks
 1. For array-based implementations, think about the relationship between the number of items it contains and how to access the topmost element.
 2. For linked-list implementations, adding and removing from the head is the same as the "top".
-3. Time complexities - push/ pop - O(1), size - O(1), pop all/ push all - O(n).
+3. Time complexities - push / pop - O(1), size - O(1), pop all / push all - O(n).
 
 ### Queues
 1. For array-based implementations, think about the relationship between the front, rear, and how you can use the capacity to wrap-around.
 2. For linked-list implementations, think about the front and rear node lists as 2 stacks.  
-3. **Important!** for linked-list implementations, dequeue must be O(1) in the AVERAGE case. Our worst case is O(n) (a loop is okay if used in the worst case).
-4. Time complexities - push/ pop - O(1), size - O(1), pop all/ push all - O(n).
+3. **Important!** for linked-list implementations, dequeue must be O(1) in the AVERAGE case. Our worst case is O(n) (a loop is okay for the worst case).
+4. Time complexities - push / pop - O(1), size - O(1), pop all / push all - O(n).
 
 ### Double-Linked List
-1. The sentinal node marks both the front and end of the list. If the sentinal node points to itself, the list is empty. 
-2. The sentinal node contains no (significant) value.
+1. The sentinel node marks both the front and end of the list. If the sentinal node points to itself, the list is empty. 
+2. The sentinel node contains no (significant) value.
 3. This list must be ordered. You can use the less-than (<) operator for comparing values. 
+4. Time complexities - insert / remove / find / index - O(n), size - O(1).  
 
 
 If you have any questions, [📧email me!](mailto:snathani@calpoly.edu)
