@@ -52,5 +52,14 @@ MTW, 8:30 pm - 9:30 pm PDT (Zoom link on Canvas)
 3. This list must be ordered. You can use the less-than (<) operator for comparing values. 
 4. Time complexities - insert / remove / find / index - O(n), size - O(1).  
 
+### Binary Search Trees
+1. If the root of the tree is None (i.e. ```if self.root is None```), then the tree is empty.
+2. Binary search trees are always organized by the keys stored in their nodes. All keys in child nodes of node.left are < node.key, and all keys in child nodes of node.right are > node.key
+3. Recursion is usually the preferred method of traversing through a binary search tree. In some cases, loops may be more intuitive, so feel free to experiment with both. 
+  * Helper functions are super useful for recursive implementations. Separate the base case (hint: #1) and the recursive steps into 2 separate functions. 
+  * When using recursion, each node can be treated as a subtree. i.e. A node itself is a subtree, with node.left and node.right being separate subtrees.
+4. In-order, pre-order, and post-order traversals have almost identical implementations. The only difference is where the node's data is appended to the list. 
+5. Time complexities - insert / find / min / max - avg: O(log n) | worst: O(n), order traversals - O(n).  
+
 
 If you have any questions, [📧email me!](mailto:snathani@calpoly.edu)
