@@ -61,5 +61,11 @@ MTW, 8:30 pm - 9:30 pm PDT (Zoom link on Canvas)
 4. In-order, pre-order, and post-order traversals have almost identical implementations. The only difference is where the node's data is appended to the list. 
 5. Time complexities - insert / find / min / max - avg: O(log n) | worst: O(n), order traversals - O(n).  
 
+### Heaps
+1. The 0 index of a heap is reserved.
+2. A node's parent is always ```parent_idx = node_idx // 2```. Similarly, a node's children are always ```child_idx = node_idx * 2``` and ``` child_idx = node_idx * 2 + 1```
+3. Unlike binary-search trees, the left and right children of a node do not need to be in any order in relation to each other. 
+4. Time complexities: enqueue / dequeue - O(log n), heap sort / heap construction - O(n log n)
+
 
 If you have any questions, [📧email me!](mailto:snathani@calpoly.edu)
